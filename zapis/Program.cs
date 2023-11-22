@@ -9,7 +9,7 @@ namespace zapis
 
 
             
-            x;
+            Int64 x;
             try
             {
                 //Open the File
